@@ -1,0 +1,36 @@
+CREATE TABLE Categories (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Description VARCHAR(500)
+);
+
+CREATE TABLE Suppliers (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name VARCHAR(150) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE,
+    Phone VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE Products (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name VARCHAR(150) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    Quantity INT NOT NULL,
+    CategoryId INT NOT NULL FOREIGN KEY REFERENCES Categories(Id),
+    SupplierId INT NOT NULL FOREIGN KEY REFERENCES Suppliers(Id)
+);
+
+CREATE TABLE PurchaseOrders (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    OrderDate DATE NOT NULL,
+    Status VARCHAR(20) NOT NULL,
+    SupplierId INT NOT NULL FOREIGN KEY REFERENCES Suppliers(Id)
+);
+
+CREATE TABLE PurchaseOrderItems (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    PurchaseOrderId INT NOT NULL FOREIGN KEY REFERENCES PurchaseOrders(Id),
+    ProductId INT NOT NULL FOREIGN KEY REFERENCES Products(Id),
+    Quantity INT NOT NULL,
+    UnitPrice DECIMAL(10,2) NOT NULL
+);

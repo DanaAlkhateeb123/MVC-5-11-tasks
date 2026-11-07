@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\task 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59BF04C7-085E-45C6-B5A2-C73B2B20BCB5}|task 5\\task 5.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\task 5\\task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BF04C7-085E-45C6-B5A2-C73B2B20BCB5}|task 5\\task 5.csproj|solutionrelative:task 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BF04C7-085E-45C6-B5A2-C73B2B20BCB5}|task 5\\task 5.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\task 5\\task 5\\data\\cafeteriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59BF04C7-085E-45C6-B5A2-C73B2B20BCB5}|task 5\\task 5.csproj|solutionrelative:task 5\\data\\cafeteriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\task 5\\task 5\\Program.cs",
+              "RelativeDocumentMoniker": "task 5\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\task 5\\task 5\\Program.cs",
+              "RelativeToolTip": "task 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T20:26:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeteriaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\task 5\\task 5\\Data\\CafeteriaDbContext.cs",
+              "RelativeDocumentMoniker": "task 5\\Data\\CafeteriaDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\task 5\\task 5\\Data\\CafeteriaDbContext.cs",
+              "RelativeToolTip": "task 5\\Data\\CafeteriaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T20:25:26.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
