@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Academy Graduation Ceremony Supply Management System/1.0.0": {
+        "runtime": {
+          "Academy Graduation Ceremony Supply Management System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Academy Graduation Ceremony Supply Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

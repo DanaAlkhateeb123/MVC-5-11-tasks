@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "Review Request";
+}
+
+<div class="container py-4">
+    <h1 class="mb-4">Review Request</h1>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Category</th>
+                    <th>Supplier Name</th>
+                    <th>Offer Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price (JD)</th>
+                    <th>Total Price (JD)</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Graduation Certificates</td>
+                    <td>@ViewBag.CertificateSupplier</td>
+                    <td>@ViewBag.CertificateName</td>
+                    <td>@ViewBag.CertificateQuantity</td>
+                    <td>@ViewBag.CertificatePrice.ToString("F2")</td>
+                    <td>@ViewBag.CertificateTotal.ToString("F2")</td>
+                </tr>
+
+                <tr>
+                    <td>Hospitality</td>
+                    <td>@ViewBag.HospitalitySupplier</td>
+                    <td>@ViewBag.HospitalityName</td>
+                    <td>@ViewBag.HospitalityQuantity</td>
+                    <td>@ViewBag.HospitalityPrice.ToString("F2")</td>
+                    <td>@ViewBag.HospitalityTotal.ToString("F2")</td>
+                </tr>
+
+                <tr>
+                    <td>Graduation Gifts</td>
+                    <td>@ViewBag.GiftSupplier</td>
+                    <td>@ViewBag.GiftName</td>
+                    <td>@ViewBag.GiftQuantity</td>
+                    <td>@ViewBag.GiftPrice.ToString("F2")</td>
+                    <td>@ViewBag.GiftTotal.ToString("F2")</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2 class="mt-4">Cost Summary</h2>
+
+    <table class="table table-bordered">
+        <tbody>
+            <tr>
+                <th>Total Before Discount</th>
+                <td>@ViewBag.TotalPrice.ToString("F2") JD</td>
+            </tr>
+
+            <tr>
+                <th>Discount Percentage</th>
+                <td>@ViewBag.DiscountPercentage%</td>
+            </tr>
+
+            <tr>
+                <th>Discount Amount</th>
+                <td>@ViewBag.DiscountAmount.ToString("F2") JD</td>
+            </tr>
+
+            <tr class="table-success">
+                <th>Final Total</th>
+                <td>
+                    <strong>@ViewBag.FinalTotal.ToString("F2") JD</strong>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="@Url.Action("Categories", "Graduation")"
+       class="btn btn-secondary">
+        Back to Offers
+    </a>
+</div>

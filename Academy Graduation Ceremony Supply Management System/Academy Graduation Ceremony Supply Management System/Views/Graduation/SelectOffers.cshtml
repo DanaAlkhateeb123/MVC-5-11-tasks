@@ -1,0 +1,52 @@
+﻿@{
+    string? certificateOffer =
+        Context.Session.GetString("CertificateOffer");
+
+    string? hospitalityOffer =
+        Context.Session.GetString("HospitalityOffer");
+
+    string? giftOffer =
+        Context.Session.GetString("GiftOffer");
+}
+
+<h1>Selected Offers</h1>
+
+<p>Certificate Offer: @certificateOffer</p>
+<p>Hospitality Offer: @hospitalityOffer</p>
+<p>Gift Offer: @giftOffer</p>
+
+
+<h2>Request Cost</h2>
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <th>Certificates Total</th>
+            <td>@ViewBag.CertificateTotal JD</td>
+        </tr>
+        <tr>
+            <th>Hospitality Total</th>
+            <td>@ViewBag.HospitalityTotal JD</td>
+        </tr>
+        <tr>
+            <th>Gifts Total</th>
+            <td>@ViewBag.GiftTotal JD</td>
+        </tr>
+        <tr>
+            <th>Total Before Discount</th>
+            <td>@ViewBag.TotalPrice JD</td>
+        </tr>
+        <tr>
+            <th>Discount Percentage</th>
+            <td>@ViewBag.DiscountPercentage%</td>
+        </tr>
+        <tr>
+            <th>Discount Amount</th>
+            <td>@ViewBag.DiscountAmount JD</td>
+        </tr>
+        <tr class="table-success">
+            <th>Final Total</th>
+            <td>@ViewBag.FinalTotal JD</td>
+        </tr>
+    </tbody>
+</table>

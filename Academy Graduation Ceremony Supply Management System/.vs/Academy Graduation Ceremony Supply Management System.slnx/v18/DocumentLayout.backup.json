@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\views\\graduation\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\views\\graduation\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\controllers\\graduationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\views\\graduation\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\views\\graduation\\selectoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\views\\graduation\\selectoffers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|c:\\users\\user\\desktop\\mvc-5-11-tasks\\academy graduation ceremony supply management system\\academy graduation ceremony supply management system\\views\\graduation\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99207738-3700-4AE5-AAAD-3002ECFF2692}|Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System.csproj|solutionrelative:academy graduation ceremony supply management system\\views\\graduation\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraduationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Controllers\\GraduationController.cs",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Controllers\\GraduationController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Controllers\\GraduationController.cs",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Controllers\\GraduationController.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAIYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T02:57:57.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\About.cshtml",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\About.cshtml",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T04:49:54.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T04:41:43.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Program.cs",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:41:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Review.cshtml",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Review.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Review.cshtml",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Review.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T04:41:00.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectOffers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\SelectOffers.cshtml",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\SelectOffers.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\SelectOffers.cshtml",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\SelectOffers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T04:32:48.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Categories.cshtml",
+              "RelativeDocumentMoniker": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MVC-5-11-tasks\\Academy Graduation Ceremony Supply Management System\\Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Categories.cshtml",
+              "RelativeToolTip": "Academy Graduation Ceremony Supply Management System\\Views\\Graduation\\Categories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T03:45:04.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
